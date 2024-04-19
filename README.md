@@ -1,4 +1,4 @@
-### Learning programming.
+### Learning Python.
 Have a nice day!
 
 <!--
