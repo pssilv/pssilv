@@ -1,4 +1,4 @@
-### Learning Python.
+### Exploring.
 Have a nice day!
 
 <!--
